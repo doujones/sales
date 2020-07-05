@@ -1,0 +1,41 @@
+{
+    "bookables": [
+    {
+        "id": 1,
+        "group": "Rooms",
+        "title": "Meeting Room",
+        "notes": "The one with the big table and interactive screen."
+    },
+    {
+        "id": 2,
+        "group": "Rooms",
+        "title": "Lecture Hall",
+        "notes": "For more formal 'sage-on-the-stage' presentations"
+    },
+    {
+        "id": 3,
+        "group": "Rooms",
+        "title": "Games Room",
+        "notes": "Table Tennis, table football, pinball"
+    },
+    {
+        "id": 4,
+        "group": "Rooms",
+        "title": "Lounge",
+        "notes": "A relaxing place to hangout"
+    },
+    {
+        "id": 5,
+        "group": "kit",
+        "title": "Projector",
+        "notes": "Portable but powerful. Keep it with the case"
+    },
+    {
+        "id": 6,
+        "group": "kit",
+        "title": "Wireless mics",
+        "notes": "Really handy but don't forget to switch them off"
+    }
+  ]
+}
+    
